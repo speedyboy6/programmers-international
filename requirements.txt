@@ -1,0 +1,6 @@
+﻿Django==5.0.1
+Pillow==10.4.0
+reportlab==4.4.0
+sqlparse==0.5.3
+asgiref==3.8.1
+pytz==2025.2
